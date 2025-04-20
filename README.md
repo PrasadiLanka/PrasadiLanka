@@ -1,7 +1,7 @@
 <h1 align="center"> Hi I'm Lanka Prasadini </h1>
 <h3 align="center">A Assoiciate QA Engineer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **HoneybeeTime**
+- 🔭 I’m currently working on **APIDM**
 
 - 🌱 I’m currently learning **Playwright**
 
